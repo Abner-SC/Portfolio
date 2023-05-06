@@ -1,0 +1,23 @@
+Comandos do Git Bash: 
+https://www.freecodecamp.org/news/git-and-github-for-beginners/
+
+-- Setando o Diretório:
+cd OneDrive
+cd Documentos
+cd GitHub
+
+-- Iniciando controle de versão de todo o diretório:
+git init
+
+-- Selecionando o arquivo text.txt para o controle de versões:
+git add text.txt
+
+-- Verificando o status do controle de versões:
+git status
+
+-- Salvando as mudanças feitas no teste.txt:
+git add text.txt
+
+-- Confirmando as mudanças feitas, com mensagem (first commit):
+git commit -m "first commit"
+
